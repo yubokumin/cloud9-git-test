@@ -9,3 +9,5 @@ if __name__ == '__main__':
     print('python-izm')
 #   print('パイソンイズム')
     test()
+else:
+    pass
